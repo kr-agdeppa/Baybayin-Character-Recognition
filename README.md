@@ -1,7 +1,8 @@
 <h1 style='text-align: center;'>Baybayin Character Recognition Using Convolutional Neural Network</h1>
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kr-agdeppa/baybayin-character-recognition?style=flat-square&color=%232ccce4">
+<img src="images/baybayin.png">
 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kr-agdeppa/baybayin-character-recognition?style=flat-square&color=%232ccce4">
 
 <img alt="GitHub License" src="https://img.shields.io/github/license/kr-agdeppa/baybayin-character-recognition?style=flat-square&color=%232ccce4">
 
